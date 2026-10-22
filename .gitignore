@@ -1,0 +1,5 @@
+# Keep personal household data out of the code repository
+flatmate-hq-*.json
+*backup*.json
+receipts/
+.DS_Store
