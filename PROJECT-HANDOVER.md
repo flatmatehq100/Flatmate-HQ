@@ -1,4 +1,6 @@
-# Flatmate HQ project handover
+# Flatmax project handover
+
+Current app branding is Flatmax. Historical project names, storage keys and hosting URLs below are retained for compatibility and context.
 
 ## Purpose and team
 

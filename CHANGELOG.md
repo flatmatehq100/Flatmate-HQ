@@ -1,5 +1,9 @@
 # Available development history
 
+## 9 November 2026 — Flatmax rebrand
+
+Updated app branding, page title, metadata, backup filenames and calendar labels to Flatmax. Preserved browser storage and calendar event identifiers for compatibility.
+
 ## 22 October 2026 — b001369
 
 Activity section, filters, overview preview, persistent change history and backup compatibility.

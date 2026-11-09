@@ -1,4 +1,4 @@
-# Flatmate-HQ
+# Flatmax
 
 Household organiser for shared expenses, receipts, chores, shopping, reminders, calendar events, fines and recent activity.
 
